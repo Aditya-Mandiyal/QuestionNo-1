@@ -1,0 +1,7 @@
+Step 1. >>>>>> Open Website "https://start.spring.io/"
+Step 2. >>>>>> Select Project - maven
+Step 3. >>>>>> Select Spring Boot Version
+Step 4. >>>>>> Fill Project MetaData
+Step 5. >>>>>> Add the dependencies like Spring web etc
+Step 6. >>>>>> Click on Generate and download it
+Step 7. >>>>>> Now Import the Maven Project in eclipse
