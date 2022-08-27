@@ -1,0 +1,7 @@
+STEP - 1 >>>>>>  Install Spring tool 4 from Eclipse MarketPLACE
+STEP - 2 >>>>>>  After Installation Create Project Of Spring Starter Project 
+                  (1). Select Java Version
+                  (2). Now add the Dependencies - Web , DevTool etc.
+STEP - 3 >>>>>> In resource.properties we can change our port by write this "server.port=9002"
+
+                  
